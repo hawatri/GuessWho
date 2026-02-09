@@ -54,5 +54,25 @@ export const categories: CategoryData[] = [
       "Political Science", "Literature", "Foreign Languages", "Drama", "Dance", "Photography", "Journalism", "Law",
       "Medicine", "Engineering", "Architecture", "Business", "Marketing", "Accounting"
     ]
+  },
+  {
+    name: "Indian food",
+    color: "bg-orange-500",
+    items: [
+      "Biryani", "Butter Chicken", "Tandoori Chicken", "Paneer Tikka", "Samosas", "Naan", "Roti", "Dal",
+      "Curry", "Masala Dosa", "Idli", "Vada", "Sambar", "Rasam", "Chole Bhature", "Pav Bhaji",
+      "Aloo Gobi", "Palak Paneer", "Chana Masala", "Rajma", "Korma", "Vindaloo", "Tikka Masala", "Malai Kofta",
+      "Gulab Jamun", "Jalebi", "Kheer", "Lassi", "Chai", "Pakora", "Dhokla", "Pani Puri"
+    ]
+  },
+  {
+    name: "Indian Places",
+    color: "bg-indigo-500",
+    items: [
+      "Taj Mahal", "Red Fort", "Gateway of India", "Golden Temple", "Lotus Temple", "India Gate", "Qutub Minar", "Hawa Mahal",
+      "Mumbai", "Delhi", "Bangalore", "Kolkata", "Chennai", "Hyderabad", "Pune", "Jaipur",
+      "Agra", "Varanasi", "Goa", "Kerala", "Rajasthan", "Himachal Pradesh", "Uttarakhand", "Tamil Nadu",
+      "Ganges River", "Yamuna River", "Himalayas", "Thar Desert", "Western Ghats", "Eastern Ghats", "Andaman Islands", "Lakshadweep"
+    ]
   }
 ];
